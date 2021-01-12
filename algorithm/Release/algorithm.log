@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\bsh\source\repos\algorithm\algorithm\main.cpp(17,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Data' 왼쪽은 무시됩니다.
+  코드를 생성하고 있습니다.
+  0 of 17 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  algorithm.vcxproj -> C:\Users\bsh\source\repos\algorithm\Release\algorithm.exe
